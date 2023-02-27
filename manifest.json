@@ -1,0 +1,17 @@
+{
+    "name": "MA Zainul Hasan 1 Genggong",
+    "short_name": "MA ZAHA 1",
+    "start_url": "/",
+    "background_color": "#37517e",
+    "description": "Website Resmi MA Zainul Hasan 1 Genggong",
+    "display": "fullscreen",
+    "theme_color": "#37517e",
+    "icons": [
+        {
+            "src": "malogo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
